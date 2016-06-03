@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wi-Fi QR Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="content_description_image_back">ImageButton to represent up drawer arrow</string>
+    <string name="title_generate_qr">Generate QR</string>
+    <string name="title_password">Password</string>
+    <string name="message_wifi_disabled">Your Wi-Fi is disabled</string>
+    <string name="title_enable_wi_fi">Enable Wi-Fi</string>
+    <string name="content_desc_item_thumb">ImageView to old the thumbnail for list item</string>
+    <string name="message_no_networks">You don\'t have any networks configured</string>
+    <string name="title_add_a_network">Add a network</string>
+    <string name="message_connect_open">The network is open. It can be connected to directly</string>
+</resources>
