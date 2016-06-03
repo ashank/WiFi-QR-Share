@@ -47,7 +47,7 @@ public class WiFiListAdapter extends RecyclerView.Adapter<WiFiListAdapter.ViewHo
 
     @Override
     public int getItemCount() {
-        return 9;
+        return configurations.size();
     }
 
     public void update(List<WifiConfiguration> c) {
